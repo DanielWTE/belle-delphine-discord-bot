@@ -36,7 +36,7 @@
 * [![Axios][Axios]][Axios-url]
 * [![OFHub][ofhub]][ofhub-url]
 
-API from [[!OFHub][ofhub]] contact [!OFHub][mail] for a API key.
+API from [OFHub][ofhub-url] contact [OFHub-Support][mail] for a API key.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
